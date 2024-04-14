@@ -5,6 +5,7 @@
 	<packageId>Owlchemist.DoorClearance</packageId>
 	<supportedVersions>
 		<li>1.4</li>
+		<li>1.5</li>
 	</supportedVersions>
 	<modVersion>1.0.4</modVersion>
 	<url>https://github.com/Owlchemist/door-clearance</url>
